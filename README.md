@@ -5,14 +5,14 @@
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UrielBatista&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UrielBatista&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UrielBatista&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UrielBatista&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,dotnet,python,c,javascript,typescript,react,next,sass,nodejs,express,nest,vue,docker,github,jest,materialui,linux,postman,bootstrap,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,dotnet,python,c,javascript,typescript,react,next,nodejs,express,nest,vue,docker,github,materialui,linux,postman,bootstrap,mongodb,postgres" />
 </a>
   <br />
 
@@ -21,5 +21,5 @@
  
 ##
    <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=UrielBatista&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=UrielBatista&row=1&column=6&theme=github_dark&margin-w=15&margin-h=15"/>
   </div>
