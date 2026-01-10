@@ -5,9 +5,9 @@
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UrielBatista&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UrielBatista&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+<!--- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UrielBatista&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UrielBatista&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
-
+--->
 
  
   <div align="center" >
@@ -18,8 +18,10 @@
 
   </div>
 
- 
+
+<!---
 ##
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=UrielBatista&row=1&column=6&theme=github_dark&margin-w=15&margin-h=15"/>
   </div>
+--->
